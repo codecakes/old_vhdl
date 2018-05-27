@@ -1,0 +1,16 @@
+Fitter Status : Successful - Wed Sep 07 22:43:56 2011
+Quartus II Version : 8.1 Build 163 10/28/2008 SJ Web Edition
+Revision Name : MUX41
+Top-level Entity Name : MUX41
+Family : Cyclone II
+Device : EP2C70F672C6
+Timing Models : Final
+Total logic elements : 2 / 68,416 ( < 1 % )
+    Total combinational functions : 2 / 68,416 ( < 1 % )
+    Dedicated logic registers : 0 / 68,416 ( 0 % )
+Total registers : 0
+Total pins : 7 / 422 ( 2 % )
+Total virtual pins : 0
+Total memory bits : 0 / 1,152,000 ( 0 % )
+Embedded Multiplier 9-bit elements : 0 / 300 ( 0 % )
+Total PLLs : 0 / 4 ( 0 % )

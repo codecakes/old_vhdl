@@ -1,0 +1,1 @@
+xst -ise "F:/cdac padai materials/akul/ROM_S/ROM_S.ise" -intstyle ise -ifn ROM_S.xst -ofn ROM_S.syr

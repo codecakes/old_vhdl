@@ -1,0 +1,13 @@
+|hs
+a[0] => Equal3.IN3
+a[0] => Equal2.IN3
+a[0] => Equal1.IN3
+a[0] => Equal0.IN3
+a[1] => Equal3.IN2
+a[1] => Equal2.IN2
+a[1] => Equal1.IN2
+a[1] => Equal0.IN2
+d <= d$latch.DB_MAX_OUTPUT_PORT_TYPE
+bout <= <GND>
+
+

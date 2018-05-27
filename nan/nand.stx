@@ -1,0 +1,22 @@
+Release 9.1i - xst J.30
+Copyright (c) 1995-2007 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to ./xst/projnav.tmp
+CPU : 0.00 / 0.31 s | Elapsed : 0.00 / 1.00 s
+ 
+--> 
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file "F:/cdac padai materials/akul/xilinxprojects/nan/nand.vhd" in Library work.
+ERROR:HDLParsers:164 - "F:/cdac padai materials/akul/xilinxprojects/nan/nand.vhd" Line 30. parse error, unexpected NAND, expecting IDENTIFIER
+WARNING:HDLParsers:3481 - Library work has no units. Did not save reference file "xst/work/hdllib.ref" for it.
+CPU : 0.16 / 0.47 s | Elapsed : 0.00 / 1.00 s
+ 
+--> 
+
+Total memory usage is 147692 kilobytes
+
+Number of errors   :    1 (   0 filtered)
+Number of warnings :    1 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

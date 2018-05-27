@@ -1,0 +1,4 @@
+AR fs behavioral "F:/cdac padai materials/akul/logic ifelse/fs/fs/fs.vhd" sub00/vhpl01 1315419415
+AR fs_test_vhd behavior "F:/cdac padai materials/akul/logic ifelse/fs/fs/fs_test.vhd" sub00/vhpl03 1315419417
+EN fs NULL "F:/cdac padai materials/akul/logic ifelse/fs/fs/fs.vhd" sub00/vhpl00 1315419414
+EN fs_test_vhd NULL "F:/cdac padai materials/akul/logic ifelse/fs/fs/fs_test.vhd" sub00/vhpl02 1315419416

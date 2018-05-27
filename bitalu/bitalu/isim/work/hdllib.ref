@@ -1,0 +1,6 @@
+EN bitalu_test_vhd NULL "F:/cdac padai materials/akul/xilinxprojects/bitalu/bitalu_test.vhd" sub00/vhpl04 1314977376
+EN bitalu_test NULL "F:/cdac padai materials/akul/xilinxprojects/bitalu/bitalu_test.vhd" sub00/vhpl02 1314977050
+AR bitalu mix "F:/cdac padai materials/akul/xilinxprojects/bitalu/bitalu.vhd" sub00/vhpl01 1314974650
+AR bitalu_test_vhd behavior "F:/cdac padai materials/akul/xilinxprojects/bitalu/bitalu_test.vhd" sub00/vhpl05 1314977377
+AR bitalu_test mix "F:/cdac padai materials/akul/xilinxprojects/bitalu/bitalu_test.vhd" sub00/vhpl03 1314977051
+EN bitalu NULL "F:/cdac padai materials/akul/xilinxprojects/bitalu/bitalu.vhd" sub00/vhpl00 1314974649

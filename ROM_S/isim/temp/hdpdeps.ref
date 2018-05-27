@@ -1,0 +1,13 @@
+V3 7
+FL "F:/cdac padai materials/akul/ROM_S/ROM_S.vhd" 2011/09/03.14:28:04 J.30
+EN isim_temp/ROM_S 1315040665 FL "F:/cdac padai materials/akul/ROM_S/ROM_S.vhd" \
+      PB ieee/std_logic_1164 1164799246
+AR isim_temp/ROM_S/MEMMATRIX 1315040666 \
+      FL "F:/cdac padai materials/akul/ROM_S/ROM_S.vhd" EN isim_temp/ROM_S 1315040665
+FL "F:/cdac padai materials/akul/ROM_S/rom_test.vhd" 2011/09/03.14:33:10 J.30
+EN isim_temp/rom_test_vhd 1315040667 \
+      FL "F:/cdac padai materials/akul/ROM_S/rom_test.vhd" PB ieee/std_logic_1164 1164799246 \
+      PB ieee/STD_LOGIC_UNSIGNED 1164799254 PB ieee/NUMERIC_STD 1164799260
+AR isim_temp/rom_test_vhd/behavior 1315040668 \
+      FL "F:/cdac padai materials/akul/ROM_S/rom_test.vhd" \
+      EN isim_temp/rom_test_vhd 1315040667 CP ROM_S

@@ -1,0 +1,2 @@
+vhdl work "bitalu.vhd"
+vhdl work "bitalu_test.vhd"

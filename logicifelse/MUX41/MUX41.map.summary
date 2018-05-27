@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Wed Sep 07 22:42:51 2011
+Quartus II Version : 8.1 Build 163 10/28/2008 SJ Web Edition
+Revision Name : MUX41
+Top-level Entity Name : MUX41
+Family : Cyclone II
+Total logic elements : 2
+    Total combinational functions : 2
+    Dedicated logic registers : 0
+Total registers : 0
+Total pins : 7
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0

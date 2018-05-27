@@ -1,0 +1,4 @@
+AR xnortest_vhd behavior "F:/cdac padai materials/akul/logic with select/xnor_select/xnortest.vhd" sub00/vhpl03 1315153988
+AR xnor1 behavioral "F:/cdac padai materials/akul/logic with select/xnor_select/xnor1.vhd" sub00/vhpl01 1315153986
+EN xnor1 NULL "F:/cdac padai materials/akul/logic with select/xnor_select/xnor1.vhd" sub00/vhpl00 1315153985
+EN xnortest_vhd NULL "F:/cdac padai materials/akul/logic with select/xnor_select/xnortest.vhd" sub00/vhpl02 1315153987

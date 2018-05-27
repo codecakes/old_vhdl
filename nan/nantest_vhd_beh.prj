@@ -1,0 +1,2 @@
+vhdl work "nand.vhd"
+vhdl work "nantest.vhd"

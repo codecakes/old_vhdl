@@ -1,0 +1,2 @@
+vhdl work "fs.vhd"
+vhdl work "fs_test.vhd"

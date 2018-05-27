@@ -1,0 +1,16 @@
+V3 6
+FL "F:/cdac padai materials/akul/logic with select/xor_select/or1.vhd" 2011/09/04.21:47:23 J.30
+EN work/or1 1315153050 \
+      FL "F:/cdac padai materials/akul/logic with select/xor_select/or1.vhd" \
+      PB ieee/std_logic_1164 1163575071
+AR work/or1/oring1 1315153051 \
+      FL "F:/cdac padai materials/akul/logic with select/xor_select/or1.vhd" \
+      EN work/or1 1315153050
+FL "F:/cdac padai materials/akul/logic with select/xor_select/xor1.vhd" 2011/09/04.21:55:31 J.30
+EN work/xor1 1315154051 \
+      FL "F:/cdac padai materials/akul/logic with select/xor_select/xor1.vhd" \
+      PB ieee/std_logic_1164 1163575071 PB ieee/std_logic_arith 1163575072 \
+      PB ieee/STD_LOGIC_UNSIGNED 1163575073
+AR work/xor1/xoring1 1315154052 \
+      FL "F:/cdac padai materials/akul/logic with select/xor_select/xor1.vhd" \
+      EN work/xor1 1315154051

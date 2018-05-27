@@ -1,0 +1,4 @@
+AR mux41_test_vhd behavior "F:/cdac padai materials/akul/logic with select/mx41_select/mux41/MUX41_TEST.vhd" sub00/vhpl03 1315158536
+AR mux41 behavioral "F:/cdac padai materials/akul/logic with select/mx41_select/mux41/MUX41.vhd" sub00/vhpl01 1315158534
+EN mux41_test_vhd NULL "F:/cdac padai materials/akul/logic with select/mx41_select/mux41/MUX41_TEST.vhd" sub00/vhpl02 1315158535
+EN mux41 NULL "F:/cdac padai materials/akul/logic with select/mx41_select/mux41/MUX41.vhd" sub00/vhpl00 1315158533

@@ -1,0 +1,8 @@
+V3 3
+FL "F:/cdac padai materials/akul/All_Logic_types8sept/logic_case/dec/decoder_using_case/decoder_using_case.vhd" 2011/09/10.14:48:09 J.30
+EN isim_temp/decoder_using_case 1315646607 \
+      FL "F:/cdac padai materials/akul/All_Logic_types8sept/logic_case/dec/decoder_using_case/decoder_using_case.vhd" \
+      PB ieee/std_logic_1164 1164799246
+AR isim_temp/decoder_using_case/behavior 1315646608 \
+      FL "F:/cdac padai materials/akul/All_Logic_types8sept/logic_case/dec/decoder_using_case/decoder_using_case.vhd" \
+      EN isim_temp/decoder_using_case 1315646607

@@ -1,0 +1,2 @@
+vhdl isim_temp "xnor1.vhd"
+vhdl isim_temp "xnortest.vhd"

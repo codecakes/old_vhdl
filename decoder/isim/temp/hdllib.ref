@@ -1,0 +1,4 @@
+EN dec_3x8 NULL "F:/cdac padai materials/akul/xilinxprojects/decoder/dec_3x8.vhd" sub00/vhpl00 1314898203
+AR testbench_dec3x8_vhd behavior "F:/cdac padai materials/akul/xilinxprojects/decoder/testbench_dec3x8.vhd" sub00/vhpl03 1314898206
+AR dec_3x8 behaviour "F:/cdac padai materials/akul/xilinxprojects/decoder/dec_3x8.vhd" sub00/vhpl01 1314898204
+EN testbench_dec3x8_vhd NULL "F:/cdac padai materials/akul/xilinxprojects/decoder/testbench_dec3x8.vhd" sub00/vhpl02 1314898205

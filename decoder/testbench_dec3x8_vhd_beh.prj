@@ -1,0 +1,2 @@
+vhdl work "dec_3x8.vhd"
+vhdl work "testbench_dec3x8.vhd"

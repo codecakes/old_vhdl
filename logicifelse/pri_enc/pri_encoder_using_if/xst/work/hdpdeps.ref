@@ -1,0 +1,8 @@
+V3 3
+FL "F:/cdac padai materials/akul/All_Logic_types8sept/logicifelse/pri_enc/pri_encoder_using_if/pri_encoder_using_if.vhd" 2011/09/10.14:22:59 J.30
+EN work/pri_encoder_using_if 1315644845 \
+      FL "F:/cdac padai materials/akul/All_Logic_types8sept/logicifelse/pri_enc/pri_encoder_using_if/pri_encoder_using_if.vhd" \
+      PB ieee/std_logic_1164 1163575071
+AR work/pri_encoder_using_if/behavior 1315644846 \
+      FL "F:/cdac padai materials/akul/All_Logic_types8sept/logicifelse/pri_enc/pri_encoder_using_if/pri_encoder_using_if.vhd" \
+      EN work/pri_encoder_using_if 1315644845

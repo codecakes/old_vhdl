@@ -1,0 +1,6 @@
+|nor1
+a => Mux0.IN4
+b => Mux0.IN5
+y <= Mux0.DB_MAX_OUTPUT_PORT_TYPE
+
+

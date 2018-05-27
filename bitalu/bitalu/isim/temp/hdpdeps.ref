@@ -1,0 +1,20 @@
+V3 9
+FL "F:/cdac padai materials/akul/xilinxprojects/bitalu/bitalu.vhd" 2011/09/02.15:07:57 J.30
+EN isim_temp/bitalu 1314977359 \
+      FL "F:/cdac padai materials/akul/xilinxprojects/bitalu/bitalu.vhd" \
+      PB ieee/std_logic_1164 1164799246 PB ieee/std_logic_arith 1164799248 \
+      PB ieee/STD_LOGIC_UNSIGNED 1164799254
+AR isim_temp/bitalu/mix 1314977360 \
+      FL "F:/cdac padai materials/akul/xilinxprojects/bitalu/bitalu.vhd" \
+      EN isim_temp/bitalu 1314977359
+FL "F:/cdac padai materials/akul/xilinxprojects/bitalu/bitalu_test.vhd" 2011/09/02.20:59:18 J.30
+AR isim_temp/bitalu_test/mix 1314977046 \
+      FL "F:/cdac padai materials/akul/xilinxprojects/bitalu/bitalu_test.vhd" \
+      EN isim_temp/bitalu_test 1314977045 CP bitalu
+EN isim_temp/bitalu_test_vhd 1314977361 \
+      FL "F:/cdac padai materials/akul/xilinxprojects/bitalu/bitalu_test.vhd" \
+      PB ieee/std_logic_1164 1164799246 PB ieee/STD_LOGIC_UNSIGNED 1164799254 \
+      PB ieee/NUMERIC_STD 1164799260
+AR isim_temp/bitalu_test_vhd/behavior 1314977362 \
+      FL "F:/cdac padai materials/akul/xilinxprojects/bitalu/bitalu_test.vhd" \
+      EN isim_temp/bitalu_test_vhd 1314977361 CP bitalu

@@ -1,0 +1,10 @@
+|nand1
+a => process_0~2.IN1
+a => process_0~0.IN1
+a => process_0~1.IN1
+b => process_0~1.IN0
+b => process_0~0.IN0
+b => process_0~2.IN0
+y <= y~1.DB_MAX_OUTPUT_PORT_TYPE
+
+

@@ -1,0 +1,2 @@
+vhdl isim_temp "bitalu.vhd"
+vhdl isim_temp "bitalu_test.vhd"

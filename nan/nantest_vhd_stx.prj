@@ -1,0 +1,2 @@
+vhdl isim_temp "nand.vhd"
+vhdl isim_temp "nantest.vhd"

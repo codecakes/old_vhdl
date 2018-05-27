@@ -1,0 +1,8 @@
+V3 3
+FL "F:/cdac padai materials/akul/xilinxprojects/nan/nand.vhd" 2011/09/01.23:22:46 J.30
+EN work/nan 1314899622 \
+      FL "F:/cdac padai materials/akul/xilinxprojects/nan/nand.vhd" \
+      PB ieee/std_logic_1164 1163575071 PB ieee/std_logic_arith 1163575072 \
+      PB ieee/STD_LOGIC_UNSIGNED 1163575073
+AR work/nan/nanding 1314899623 \
+      FL "F:/cdac padai materials/akul/xilinxprojects/nan/nand.vhd" EN work/nan 1314899622

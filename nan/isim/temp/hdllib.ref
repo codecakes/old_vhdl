@@ -1,0 +1,5 @@
+EN nantest_vhd NULL "F:/cdac padai materials/akul/xilinxprojects/nan/nantest.vhd" sub00/vhpl02 1314906989
+EN nan NULL "F:/cdac padai materials/akul/xilinxprojects/nan/nand.vhd" sub00/vhpl00 1314906987
+AR nan nanding "F:/cdac padai materials/akul/xilinxprojects/nan/nand.vhd" sub00/vhpl01 1314900530
+AR nantest_vhd nanding "F:/cdac padai materials/akul/xilinxprojects/nan/nantest.vhd" sub00/vhpl03 1314906990
+AR nan behavior "F:/cdac padai materials/akul/xilinxprojects/nan/nand.vhd" sub00/vhpl04 1314906988

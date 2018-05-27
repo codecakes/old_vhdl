@@ -1,0 +1,6 @@
+V3 3
+FL "F:/cdac padai materials/akul/ROM_S/ROM_S.vhd" 2011/09/03.14:28:04 J.30
+EN work/ROM_S 1315040649 FL "F:/cdac padai materials/akul/ROM_S/ROM_S.vhd" \
+      PB ieee/std_logic_1164 1163575071
+AR work/ROM_S/MEMMATRIX 1315040650 \
+      FL "F:/cdac padai materials/akul/ROM_S/ROM_S.vhd" EN work/ROM_S 1315040649

@@ -1,0 +1,17 @@
+V3 7
+FL "F:/cdac padai materials/akul/logic with select/xnor_select/xnor1.vhd" 2011/09/04.22:00:03 J.30
+EN isim_temp/xnor1 1315153985 \
+      FL "F:/cdac padai materials/akul/logic with select/xnor_select/xnor1.vhd" \
+      PB ieee/std_logic_1164 1164799246 PB ieee/std_logic_arith 1164799248 \
+      PB ieee/STD_LOGIC_UNSIGNED 1164799254
+AR isim_temp/xnor1/Behavioral 1315153986 \
+      FL "F:/cdac padai materials/akul/logic with select/xnor_select/xnor1.vhd" \
+      EN isim_temp/xnor1 1315153985
+FL "F:/cdac padai materials/akul/logic with select/xnor_select/xnortest.vhd" 2011/09/04.22:02:42 J.30
+EN isim_temp/xnortest_vhd 1315153987 \
+      FL "F:/cdac padai materials/akul/logic with select/xnor_select/xnortest.vhd" \
+      PB ieee/std_logic_1164 1164799246 PB ieee/STD_LOGIC_UNSIGNED 1164799254 \
+      PB ieee/NUMERIC_STD 1164799260
+AR isim_temp/xnortest_vhd/behavior 1315153988 \
+      FL "F:/cdac padai materials/akul/logic with select/xnor_select/xnortest.vhd" \
+      EN isim_temp/xnortest_vhd 1315153987 CP xnor1

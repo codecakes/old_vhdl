@@ -1,0 +1,2 @@
+vhdl isim_temp "pri_encoder_using_if.vhd"
+vhdl isim_temp "pri_enc_test.vhd"

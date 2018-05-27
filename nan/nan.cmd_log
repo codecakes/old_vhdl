@@ -1,0 +1,1 @@
+xst -ise "F:/cdac padai materials/akul/xilinxprojects/nan/nan.ise" -intstyle ise -ifn nan.xst -ofn nan.syr

@@ -1,0 +1,7 @@
+V3 3
+FL "F:/cdac padai materials/akul/logic ifelse/hs/hs/hs.vhd" 2011/09/07.23:13:31 J.30
+EN work/hs 1315419637 FL "F:/cdac padai materials/akul/logic ifelse/hs/hs/hs.vhd" \
+      PB ieee/std_logic_1164 1163575071 PB ieee/std_logic_arith 1163575072 \
+      PB ieee/STD_LOGIC_UNSIGNED 1163575073
+AR work/hs/Behavioral 1315419638 \
+      FL "F:/cdac padai materials/akul/logic ifelse/hs/hs/hs.vhd" EN work/hs 1315419637

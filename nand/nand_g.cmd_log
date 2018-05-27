@@ -1,0 +1,3 @@
+xst -ise "F:/cdac padai materials/akul/xilinxprojects/nand/nand.ise" -intstyle ise -ifn nand_g.xst -ofn nand_g.syr
+xst -ise "F:/cdac padai materials/akul/xilinxprojects/nand/nand.ise" -intstyle ise -ifn nand_g.xst -ofn nand_g.syr
+xst -ise "F:/cdac padai materials/akul/xilinxprojects/nand/nand.ise" -intstyle ise -ifn nand_g.xst -ofn nand_g.syr

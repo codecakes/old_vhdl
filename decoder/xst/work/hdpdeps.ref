@@ -1,0 +1,8 @@
+V3 3
+FL "F:/cdac padai materials/akul/xilinxprojects/decoder/dec_3x8.vhd" 2011/09/01.22:58:56 J.30
+EN work/dec_3x8 1314978744 \
+      FL "F:/cdac padai materials/akul/xilinxprojects/decoder/dec_3x8.vhd" \
+      PB ieee/std_logic_1164 1163575071
+AR work/dec_3x8/behaviour 1314978745 \
+      FL "F:/cdac padai materials/akul/xilinxprojects/decoder/dec_3x8.vhd" \
+      EN work/dec_3x8 1314978744

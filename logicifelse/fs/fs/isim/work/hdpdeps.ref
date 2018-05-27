@@ -1,0 +1,15 @@
+V3 7
+FL "F:/cdac padai materials/akul/logic ifelse/fs/fs/fs.vhd" 2011/09/07.23:30:32 J.30
+EN work/fs 1315419422 FL "F:/cdac padai materials/akul/logic ifelse/fs/fs/fs.vhd" \
+      PB ieee/std_logic_1164 1164799246 PB ieee/std_logic_arith 1164799248 \
+      PB ieee/STD_LOGIC_UNSIGNED 1164799254
+AR work/fs/Behavioral 1315419423 \
+      FL "F:/cdac padai materials/akul/logic ifelse/fs/fs/fs.vhd" EN work/fs 1315419422
+FL "F:/cdac padai materials/akul/logic ifelse/fs/fs/fs_test.vhd" 2011/09/07.23:46:38 J.30
+EN work/fs_test_vhd 1315419424 \
+      FL "F:/cdac padai materials/akul/logic ifelse/fs/fs/fs_test.vhd" \
+      PB ieee/std_logic_1164 1164799246 PB ieee/STD_LOGIC_UNSIGNED 1164799254 \
+      PB ieee/NUMERIC_STD 1164799260
+AR work/fs_test_vhd/behavior 1315419425 \
+      FL "F:/cdac padai materials/akul/logic ifelse/fs/fs/fs_test.vhd" \
+      EN work/fs_test_vhd 1315419424 CP fs

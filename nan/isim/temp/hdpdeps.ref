@@ -1,0 +1,20 @@
+V3 8
+FL "F:/cdac padai materials/akul/xilinxprojects/nan/nand.vhd" 2011/09/02.01:26:19 J.30
+AR isim_temp/nan/nanding -1 \
+      FL "F:/cdac padai materials/akul/xilinxprojects/nan/nand.vhd" \
+      EN isim_temp/nan 1314906987
+EN isim_temp/nan 1314906987 \
+      FL "F:/cdac padai materials/akul/xilinxprojects/nan/nand.vhd" \
+      PB ieee/std_logic_1164 1164799246 PB ieee/std_logic_arith 1164799248 \
+      PB ieee/STD_LOGIC_UNSIGNED 1164799254
+AR isim_temp/nan/behavior 1314906988 \
+      FL "F:/cdac padai materials/akul/xilinxprojects/nan/nand.vhd" \
+      EN isim_temp/nan 1314906987
+FL "F:/cdac padai materials/akul/xilinxprojects/nan/nantest.vhd" 2011/09/01.23:38:34 J.30
+EN isim_temp/nantest_vhd 1314906989 \
+      FL "F:/cdac padai materials/akul/xilinxprojects/nan/nantest.vhd" \
+      PB ieee/std_logic_1164 1164799246 PB ieee/STD_LOGIC_UNSIGNED 1164799254 \
+      PB ieee/NUMERIC_STD 1164799260
+AR isim_temp/nantest_vhd/nanding 1314906990 \
+      FL "F:/cdac padai materials/akul/xilinxprojects/nan/nantest.vhd" \
+      EN isim_temp/nantest_vhd 1314906989 CP nan
